@@ -1,0 +1,1 @@
+I am taking this class so that I can be prepared for my organization's transition from redshift to bigquery and our increased utilization of dbt. I am also interested in improving my skills in python and git. I'm looking forward to all of the different skills this course covers. 
